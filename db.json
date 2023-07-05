@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "react"
+    },
+    {
+      "id": "2",
+      "title": "next"
+    },
+    {
+      "id": "3",
+      "title": "spring"
+    },
+    {
+      "title": "fetchTodos",
+      "id": "0Oc9IPn"
+    }
+  ]
+}
